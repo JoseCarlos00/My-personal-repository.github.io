@@ -69,3 +69,11 @@ button:active {
 form {
     margin: 20px;
 }
+
+
+@media (max-width: 640px) {
+    main section {
+        width: 360px;
+    }
+    
+}
